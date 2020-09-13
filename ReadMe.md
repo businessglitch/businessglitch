@@ -6,15 +6,6 @@ Over the past few years I've had the opportunity to complete my coop/internship 
 
 Fun fact: - When I worked as a security guard during early university years, I met Justin Bieber's dad at EY center at a ComicCon in Ottawa and following that evening, was assigned a shift for Justin's concert :D 
 
---- 
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=businessglitch&show_icons=true&hide_border=true" />
-
-</details>
-<br />
-
 ---
 ### Connect with me:
 
@@ -43,3 +34,12 @@ Fun fact: - When I worked as a security guard during early university years, I m
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+--- 
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=businessglitch&show_icons=true&hide_border=true" />
+
+</details>
+
