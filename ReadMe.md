@@ -7,25 +7,17 @@ Over the past few years I've had the opportunity to complete my coop/internship 
 Fun fact: - When I worked as a security guard during early university years, I met Justin Bieber's dad at EY center at a ComicCon in Ottawa and following that evening, was assigned a shift for Justin's concert :D 
 
 --- 
-
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</details>
-
 <details>
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=businessglitch&show_icons=true&hide_border=true" />
 
 </details>
+<br />
 
-
-### Connect with me:
 ---
+### Connect with me:
+
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 <!-- [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
 <!-- [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
@@ -40,7 +32,6 @@ Fun fact: - When I worked as a security guard during early university years, I m
 [linkedin]: https://linkedin.com/in/fahdhayat
 <br />
 
----
 
 ### 📺 Latest YouTube Videos (Coming Soon)
 
