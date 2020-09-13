@@ -23,3 +23,16 @@ Fun fact: - When I worked as a security guard during early university years, I m
 <!-- [youtube]: https://youtube.com/codeSTACKr -->
 [instagram]: https://instagram.com/fahoodii_h
 [linkedin]: https://linkedin.com/in/fahdhayat
+
+
+
+### 📺 Latest YouTube Videos (Coming Soon)
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+
+### 📕 Latest Blog Posts (Coming Soon)
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
