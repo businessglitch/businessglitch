@@ -1,14 +1,8 @@
 ### Hey! 👋
 ---
-I'm currently working at Deloitte Canada (Omnia AI) as an SWE and building an internal tool to help accelerate Azure platform deployment
+I'm currently working at Deloitte Canada (Omnia AI) as an SWE focuing on client centered projects. Also working on implementing an internal tool to help accelerate Azure platform deployment
 
-<br />
-
-
-Over the past few years I've had the opportunity to complete my coop/internship terms at 4 different firms in Ottawa and meet amazing people.
-
-I'm passionate about projects that are customer-focused and are consumer-based. 
-
+Over the past few years I've had the opportunity to complete my coop/internship terms at 4 different firms in Ottawa and meet amazing people. I developed a passion for projects that are customer-focused. 
 
 Fun fact: - When I worked as a security guard during early university years, I met Justin Bieber's dad at EY center at a ComicCon in Ottawa and following that evening, was assigned a shift for Justin's concert :D 
 
@@ -22,8 +16,6 @@ Fun fact: - When I worked as a security guard during early university years, I m
 <!-- [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-
 
 
 [website]: https://fahadhayat.life
