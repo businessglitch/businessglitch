@@ -2,9 +2,10 @@
 ---
 I'm currently working at Deloitte Canada (Omnia AI) as an SWE focuing on client centered projects. Also working on implementing an internal tool to help accelerate Azure platform deployment
 
-Over the past few years I've had the opportunity to complete my coop/internship terms at 4 different firms in Ottawa and meet amazing people. I developed a passion for projects that are customer-focused. 
+I love a good chat over tea, lets talk about life, code, music, travel or what ever in between. Shoot me a message at fahadhayat@outlook.com
 
-Fun fact: - When I worked as a security guard during early university years, I met Justin Bieber's dad at EY center at a ComicCon in Ottawa and following that evening, was assigned a shift for Justin's concert :D 
+Fun facts: - I used to wear a mohawk back in highschool days, was/am indeed the black sheep in the family. 🙄 <br/>
+          - PS I speak Spanish too
 
 ---
 ### Connect with me:
