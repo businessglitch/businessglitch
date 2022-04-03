@@ -24,18 +24,6 @@ Fun facts: - I used to wear a mohawk back in highschool days, was/am indeed the 
 [linkedin]: https://linkedin.com/in/fahdhayat
 <br />
 
-
-### 📺 Latest YouTube Videos (Coming Soon)
-
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
-
-
-### 📕 Latest Blog Posts (Coming Soon)
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 --- 
 <details>
   <summary>:zap: Github Stats</summary>
