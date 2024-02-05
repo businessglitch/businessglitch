@@ -4,8 +4,7 @@ I'm currently working at Deloitte Canada (Omnia AI) as an SWE focuing on client 
 
 I love a good chat over tea, lets talk about life, code, music, travel or what ever in between. Shoot me a message at fahadhayat@outlook.com
 
-Fun facts: - I used to wear a mohawk back in highschool days, was/am indeed the black sheep in the family. 🙄 <br/>
-          - PS I speak Spanish too
+- PS I speak Spanish too
 
 ---
 ### Connect with me:
