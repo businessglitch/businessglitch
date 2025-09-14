@@ -1,8 +1,8 @@
 ### Hey! 👋
 ---
-I'm currently working at Deloitte Canada (Omnia AI) as an SWE focuing on client centered projects. Also working on implementing an internal tool to help accelerate Azure platform deployment
+I'm currently working at Microsoft. 
 
-I love a good chat over tea, lets talk about life, code, music, travel or what ever in between. Shoot me a message at fahadhayat@outlook.com
+I love a good chat over tea, lets talk about life, politics, music, travel or what ever in between. Shoot me a message at fahadhayat@outlook.com
 
 - PS I speak Spanish too
 
