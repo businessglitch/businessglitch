@@ -1,11 +1,10 @@
-### Hey! 👋
+### Hello, Fahad here! 👋
 ---
-Currently SWE @ Microsoft. 
+SWE @ Microsoft · distributed systems & high-scale backends
 
-I love a good chat over tea, lets talk about life, politics, music, travel or what ever in between. 
+Building infra for 40M+ DAU · Redis · C# · Azure · Kafka
 
-[Contact]: https://fahadhayat.com <br/>
-
+Prev: Deloitte · Open to senior backend roles
 ---
 
 
